@@ -211,4 +211,4 @@ WHERE life_expectancy > 1.15 *
 ```
 * Subqueries are most frequently used in ```WHERE``` clause
 * Cross JOIN is used as ```SELECT * FROM tb1 CROSS JOIN tb2```
-    
+* A cross join returns the Cartesian product of rows from the rowsets in the join. In other words, it will combine each row from the first rowset with each row from the second rowse.
